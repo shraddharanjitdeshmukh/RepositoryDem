@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Welcome to Repository
+=======
+Welcome to git
+>>>>>>> Stashed changes
